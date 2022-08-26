@@ -1,31 +1,86 @@
 .App {
-  text-align: center;
+  /* align-content: left; */
+  /* text-align: left; */
+
+  align-content: right;
+  text-align: right;
 }
 
 .App-logo {
-  height: 40vmin;
+  /* height: 40vmin; */
+  height: 100px;
+  width: 100px;
   pointer-events: none;
+}
+
+.Rose {
+  height: 70px;
+  width: 70px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+
+  .H1 {
+    animation: H1-move infinite 5s linear;
+  }
 }
 
 .App-header {
-  background-color: #282c34;
+  /* background-color: #282c34; */
+  background: radial-gradient(rgba(255, 126, 231, 0.802), #b3a4ff9b);
   min-height: 100vh;
+  height: 0rem;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
+  align-items: left;
+  justify-content: left;
+  padding: 2rem;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(255, 255, 255);
+}
+
+.Section1 {
+  background: radial-gradient(rgba(255, 126, 231, 0.802), #b3a4ff9b);
+  padding: 2rem;
+}
+
+.H1 {
+  font-size: 2rem;
+  font-weight: light;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Paragraph {
+  font-size: 1rem;
+  font-weight: normal;
+  font-family: Helvetica, sans-serif;
+  font-style: normal;
+  color: black;
+  /* font-style: oblique; */
+  /* font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+  /* font-language-override: normal; */
+  height: 0.01rem;
 }
 
 .App-link {
   color: #61dafb;
+}
+
+@keyframes H1-move {
+  from {
+    transform:skew(0deg);
+  }
+
+  to {
+    transform: skew(10deg);
+  }
+
+  to {
+    transform: skew(0deg);
+  }
+  
 }
 
 @keyframes App-logo-spin {
