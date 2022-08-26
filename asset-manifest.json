@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/novahdesign/static/css/main.073c9b0a.css",
-    "main.js": "/novahdesign/static/js/main.e3fe2e93.js",
-    "static/js/787.488b8971.chunk.js": "/novahdesign/static/js/787.488b8971.chunk.js",
-    "static/media/logo.svg": "/novahdesign/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/novahdesign/index.html",
-    "main.073c9b0a.css.map": "/novahdesign/static/css/main.073c9b0a.css.map",
-    "main.e3fe2e93.js.map": "/novahdesign/static/js/main.e3fe2e93.js.map",
-    "787.488b8971.chunk.js.map": "/novahdesign/static/js/787.488b8971.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.9dfdb16f.js",
+    "static/js/787.488b8971.chunk.js": "/static/js/787.488b8971.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.9dfdb16f.js.map": "/static/js/main.9dfdb16f.js.map",
+    "787.488b8971.chunk.js.map": "/static/js/787.488b8971.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e3fe2e93.js"
+    "static/js/main.9dfdb16f.js"
   ]
 }
