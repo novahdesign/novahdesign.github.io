@@ -2,7 +2,7 @@
 anova hou is an artist, designer, and developer. she uses data + code to tell stories and create art. 
 ##### ![giphy-screen](https://github.com/novahdesign/novahdesign.github.io/assets/73559847/73673354-8176-4744-a16b-0d856b599a31)
 
-contact: anova.hou@gmail.com | [linkedin](https://www.linkedin.com/in/anova-hou/) | [twitter](https://twitter.com/anova_hou) | [instagram](https://www.instagram.com/anovh/)
+##### contact: anova.hou@gmail.com | [linkedin](https://www.linkedin.com/in/anova-hou/) | [twitter](https://twitter.com/anova_hou) | [instagram](https://www.instagram.com/anovh/)
 
 recent work:
 ## CYBERSCAPE ZINE
