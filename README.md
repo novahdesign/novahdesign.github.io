@@ -1,6 +1,6 @@
 # anova hou
 anova hou is an artist, designer, and developer. she uses data + code to tell stories and create art. 
-##### ![giphy-screen](https://github.com/novahdesign/novahdesign.github.io/assets/73559847/73673354-8176-4744-a16b-0d856b599a31) ![giphy (5)](https://github.com/novahdesign/novahdesign.github.io/assets/73559847/acdb1768-81f6-4ca0-8667-a61a51035139)
+##### ![giphy-screen](https://github.com/novahdesign/novahdesign.github.io/assets/73559847/73673354-8176-4744-a16b-0d856b599a31) ![giphy (3)](https://github.com/novahdesign/novahdesign.github.io/assets/73559847/1f853478-372c-4305-9583-67e193c43c84)
 
 ##### contact: anova.hou@gmail.com | [linkedin](https://www.linkedin.com/in/anova-hou/) | [twitter](https://twitter.com/anova_hou) | [instagram](https://www.instagram.com/anovh/)
 
@@ -12,4 +12,4 @@ recent work:
 ![ghost-in-system-1](https://github.com/novahdesign/novahdesign.github.io/assets/73559847/b36fb218-7d5b-43d4-a106-6bd44c729243)
 
 ![giphy (4)](https://github.com/novahdesign/novahdesign.github.io/assets/73559847/b466cee6-6aa9-4159-bf07-7e0c056f3c6f)
-![giphy (3)](https://github.com/novahdesign/novahdesign.github.io/assets/73559847/1f853478-372c-4305-9583-67e193c43c84)
+![giphy (5)](https://github.com/novahdesign/novahdesign.github.io/assets/73559847/acdb1768-81f6-4ca0-8667-a61a51035139)
