@@ -3,8 +3,7 @@ anova hou is an artist, designer, and developer. she uses data + code to tell st
 ## contact: anova.hou@gmail.com | [linkedin](https://www.linkedin.com/in/anova-hou/) | [twitter](https://twitter.com/anova_hou) | [instagram](https://www.instagram.com/anovh/)
 ##### ![giphy-screen](https://github.com/novahdesign/novahdesign.github.io/assets/73559847/73673354-8176-4744-a16b-0d856b599a31) ![giphy (3)](https://github.com/novahdesign/novahdesign.github.io/assets/73559847/1f853478-372c-4305-9583-67e193c43c84)
 
-<iframe src="https://openprocessing.org/sketch/2022819/embed/" width="400" height="400"></iframe>
-<iframe src="https://openprocessing.org/sketch/1990482/embed/" width="400" height="400"></iframe>
+<iframe src="https://openprocessing.org/sketch/2022819/embed/" width="400" height="400"></iframe> <iframe src="https://openprocessing.org/sketch/1990482/embed/" width="400" height="400"></iframe>
 <iframe src="https://openprocessing.org/sketch/1059150/embed/" width="800" height="400"></iframe>
 
 
