@@ -2,7 +2,11 @@
 anova hou is an artist, designer, and developer. she uses data + code to tell stories and create art. 
 ## contact: anova.hou@gmail.com | [linkedin](https://www.linkedin.com/in/anova-hou/) | [twitter](https://twitter.com/anova_hou) | [instagram](https://www.instagram.com/anovh/)
 
+<a href="../html-link.htm" style="color:red">Main page</a>
+
 ### web development work | [gadfly ai blog - work in progress ](https://gadfly.cargo.site/) | [juxtaposers magazine](https://juxtaposers.github.io/) | [guusto inc. website (corporate work)](https://guusto.com/)
+
+### digital art, graphic design, creative tech work | [cyberscape zine - an open source art zine](https://www.gadfly.ai/cyberscape1) | [my photography portfolio](https://anovhphoto.weebly.com/) | [my generative art portfolio](https://anovhphoto.weebly.com/experimental.html)
 
 ##### ![giphy-screen](https://github.com/novahdesign/novahdesign.github.io/assets/73559847/73673354-8176-4744-a16b-0d856b599a31) ![giphy (3)](https://github.com/novahdesign/novahdesign.github.io/assets/73559847/1f853478-372c-4305-9583-67e193c43c84)
 
